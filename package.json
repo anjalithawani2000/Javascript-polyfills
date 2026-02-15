@@ -1,0 +1,15 @@
+{
+  "name": "polyfill-backend",
+  "version": "1.0.0",
+  "description": "Backend boilerplate for array and method polyfills",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "keywords": ["polyfill", "array", "map", "reduce", "express"],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
