@@ -8,4 +8,4 @@ Array.prototype.myMap = function (cb) {
 
 const arr = [1, 2, 3, 4, 5];
 const newArray = arr.myMap((num) => num * 2);
-console.log(newArray)
+console.log("Result Of Polyfils of Filter :-", newArray)
